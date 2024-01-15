@@ -10,7 +10,7 @@ Vision impairment significantly impacts the global economy, with an estimated an
 
 ## Learn More
 
-For a more detailed overview and demonstration of VisionGuard, check out our video on YouTube:[YouTube Video Link](https://youtu.be/5Dpk4dlQ5Rc)
+For a more detailed overview and demonstration of VisionGuard, check out our video on YouTube:[Watch on Youtube](https://youtu.be/5Dpk4dlQ5Rc) (recommended for high quality)
 
 [![VisionGuard YouTube Video](https://img.youtube.com/vi/5Dpk4dlQ5Rc/0.jpg)](https://youtu.be/5Dpk4dlQ5Rc)
 
@@ -34,7 +34,7 @@ This section demonstrates the effectiveness of our yolov8 model in detecting obs
 
 ## Prototype App
 
-The prototype app is designed to interface seamlessly with VisionGuard, providing intuitive audio instructions for the user.
+The prototype app is designed to interface seamlessly with VisionGuard, providing intuitive audio instructions for the user. [Watch the prototype on Figma](https://www.figma.com/proto/rpRvNo1BV3Ocuzlqvte41x/VisionGuard?type=design&node-id=28-104&t=4Z5TPHpWhHfBHAi6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A104&show-proto-sidebar=1&mode=design)
 
 [![Prototype App Screenshot](https://github.com/aminakhshi/visionguard/blob/1e9c77d9f54748acf4612513af8986613b8b75a2/images/app_screenshot.png)](https://www.figma.com/proto/rpRvNo1BV3Ocuzlqvte41x/VisionGuard?type=design&node-id=28-104&t=4Z5TPHpWhHfBHAi6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A104&show-proto-sidebar=1&mode=design)
 
