@@ -24,19 +24,19 @@ For a more detailed overview and demonstration of VisionGuard, check out our vid
 
 ## VisionGuard Kit Image
 
-![VisionGuard Kit](dummy-link-to-kit-image.jpg)
+![VisionGuard Kit](https://github.com/aminakhshi/visionguard/blob/1e9c77d9f54748acf4612513af8986613b8b75a2/images/ditance_measurement.jpg)
 
 ## Model Performance
 
 This section demonstrates the effectiveness of our yolov8 model in detecting obstacles using a sample image.
 
-![Model Performance Sample](dummy-link-to-model-performance-image.jpg)
+![Model Performance Sample](https://github.com/aminakhshi/visionguard/blob/1e9c77d9f54748acf4612513af8986613b8b75a2/images/model_prediction.png)
 
 ## Prototype App
 
 The prototype app is designed to interface seamlessly with VisionGuard, providing intuitive audio instructions for the user.
 
-[![Prototype App Screenshot](dummy-link-to-app-prototype-image.jpg)](https://www.figma.com/proto/rpRvNo1BV3Ocuzlqvte41x/VisionGuard?type=design&node-id=28-104&t=4Z5TPHpWhHfBHAi6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A104&show-proto-sidebar=1&mode=design)
+[![Prototype App Screenshot](https://github.com/aminakhshi/visionguard/blob/1e9c77d9f54748acf4612513af8986613b8b75a2/images/app_screenshot.png)](https://www.figma.com/proto/rpRvNo1BV3Ocuzlqvte41x/VisionGuard?type=design&node-id=28-104&t=4Z5TPHpWhHfBHAi6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A104&show-proto-sidebar=1&mode=design)
 
 ## To-Do
 
