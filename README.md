@@ -36,7 +36,7 @@ This section demonstrates the effectiveness of our yolov8 model in detecting obs
 
 The prototype app is designed to interface seamlessly with VisionGuard, providing intuitive audio instructions for the user.
 
-[![Prototype App Screenshot](dummy-link-to-app-prototype-image.jpg)](https://www.figma.com/file/DUMMY_LINK_FOR_FIGMA)
+[![Prototype App Screenshot](dummy-link-to-app-prototype-image.jpg)](https://www.figma.com/proto/rpRvNo1BV3Ocuzlqvte41x/VisionGuard?type=design&node-id=28-104&t=4Z5TPHpWhHfBHAi6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A104&show-proto-sidebar=1&mode=design)
 
 ## To-Do
 
